@@ -1,0 +1,14 @@
+{
+  "name": "Yocoin",
+  "version": "1.0.0",
+  "description": "My first coin ",
+  "main": "index.js",
+  "author": "Yoseph-code ",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "debug": "^4.3.3",
+    "elliptic": "^6.5.4"
+  }
+}
